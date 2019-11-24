@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siraj/CLionProjects/fileIO/Record.cpp
+Record.h
+/home/siraj/CLionProjects/fileIO/Record.h
+
+/home/siraj/CLionProjects/fileIO/Record.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/siraj/CLionProjects/fileIO/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+list
+-
+vector
+-
+Record.h
+/home/siraj/CLionProjects/fileIO/Record.h
+
